@@ -24,3 +24,4 @@ try:
     print("No players online.")
 except Exception as e:
   print(f"Could not connect to the server: {e}")
+input("\nPress Enter to exit...")
